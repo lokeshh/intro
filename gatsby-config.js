@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://filipesantoscorrea.com`,
+    siteUrl: `https://lokeshh.netlify.app`,
   },
   plugins: [
     {
@@ -25,8 +25,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Filipe Santos Correa`,
-        short_name: `Filipe`,
+        name: `Lokesh Sharma`,
+        short_name: `Lokesh`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#0873e8`,
@@ -70,8 +70,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://filipesantoscorrea.com',
-        sitemap: 'https://filipesantoscorrea.com/sitemap.xml',
+        host: 'https://lokeshh.netlify.app',
+        sitemap: 'https://lokeshh.netlify.app/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/', disallow: ["/privacy", "/legal"], }]
       }
     },

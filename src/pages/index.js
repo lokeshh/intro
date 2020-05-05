@@ -14,7 +14,7 @@ export default () => (
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
       <meta name="viewport" content="width=device-width,initial-scale=1.0" />
 
-      <title>Filipe Santos Correa - Front-End Engineer</title>
+      <title>Lokesh Sharma - Back-End Engineer</title>
       <meta name="title" content="Filipe Santos Correa - Front-End Engineer" />
       <meta name="description" content="Hi, my name is Filipe Santos Correa. I'm a Front-End Engineer from Karlsruhe - Germany." />
       <link rel="canonical" href="https://filipesantoscorrea.com" />
